@@ -1,0 +1,1767 @@
+fileFormatVersion: 2
+guid: 7cd122eb959866249b15369d3656b11a
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -3100369314251171874
+    second: George_Idle
+  - first:
+      74: -886206124811307748
+    second: George_Dance
+  - first:
+      74: 4348485665485846014
+    second: George_Death
+  - first:
+      74: 5495837471925175665
+    second: George_Hello
+  - first:
+      74: -9003874273952253254
+    second: George_HitRecieve_1
+  - first:
+      74: -3336956621012974389
+    second: George_HitRecieve_2
+  - first:
+      74: 5539831331247536789
+    second: George_Jump
+  - first:
+      74: 406898954880783950
+    second: George_No
+  - first:
+      74: 6133556061716467314
+    second: George_Pickup
+  - first:
+      74: 2353680664591731088
+    second: George_Punch
+  - first:
+      74: 5522812681064789136
+    second: George_Run
+  - first:
+      74: 4520172014027509136
+    second: George_Run_Holding
+  - first:
+      74: -3515817558544967403
+    second: George_Run_Tall
+  - first:
+      74: -3704289112126983070
+    second: George_Shoot
+  - first:
+      74: -6076556136478701286
+    second: George_SwordSlash
+  - first:
+      74: 2667949614841947897
+    second: George_Walk
+  - first:
+      74: -9100551197468582114
+    second: George_Walk_Holding
+  - first:
+      74: 2735693315676738181
+    second: George_Walk_Tall
+  - first:
+      74: 2632839816044518601
+    second: George_Yes
+  - first:
+      74: 1419879912259550416
+    second: Kick
+  - first:
+      74: -4746579845412563721
+    second: George_Dance (1)
+  - first:
+      74: -4746380211842627776
+    second: RobotArmature|Death
+  - first:
+      74: -8283141236615596318
+    second: RobotArmature|Hello
+  - first:
+      74: 2023540188812327069
+    second: RobotArmature|HitRecieve_1
+  - first:
+      74: -3668775287481133465
+    second: RobotArmature|HitRecieve_2
+  - first:
+      74: -2490753452179567278
+    second: RobotArmature|Idle
+  - first:
+      74: 8016117995556713153
+    second: RobotArmature|Jump
+  - first:
+      74: 1324644549613963605
+    second: RobotArmature|Kick
+  - first:
+      74: 4203162683634984400
+    second: RobotArmature|No
+  - first:
+      74: -2425987201921629015
+    second: RobotArmature|Pickup
+  - first:
+      74: -6810371955151399809
+    second: RobotArmature|Punch
+  - first:
+      74: 1988974090631396434
+    second: RobotArmature|Run
+  - first:
+      74: 1500349597681915463
+    second: RobotArmature|Run_Holding
+  - first:
+      74: 1816241014941479736
+    second: RobotArmature|Run_Tall
+  - first:
+      74: -2826706811717745697
+    second: RobotArmature|Shoot
+  - first:
+      74: 7227484905004306851
+    second: RobotArmature|SwordSlash
+  - first:
+      74: 3124539885581274750
+    second: RobotArmature|Walk
+  - first:
+      74: 2974835886356173238
+    second: RobotArmature|Walk_Holding
+  - first:
+      74: 4478053178252851585
+    second: RobotArmature|Walk_Tall
+  - first:
+      74: 3085827095450492783
+    second: George_RobotArmature|Yes
+  - first:
+      74: 7708839609455906380
+    second: George_Kick
+  - first:
+      74: -7836604893461100862
+    second: George_RobotArmature|Dance
+  - first:
+      74: 170433272864854476
+    second: George_RobotArmature|Death
+  - first:
+      74: 3960722513936523652
+    second: George_RobotArmature|Hello
+  - first:
+      74: 2908691904166131227
+    second: George_RobotArmature|HitRecieve_1
+  - first:
+      74: 2254239025747808758
+    second: George_RobotArmature|HitRecieve_2
+  - first:
+      74: 6717783989355679750
+    second: George_RobotArmature|Idle
+  - first:
+      74: -5536779822232762110
+    second: George_RobotArmature|Jump
+  - first:
+      74: -581220958551590389
+    second: George_RobotArmature|Kick
+  - first:
+      74: 293892726439184645
+    second: George_RobotArmature|No
+  - first:
+      74: 8152390150732892384
+    second: George_RobotArmature|Pickup
+  - first:
+      74: -9046510698347101232
+    second: George_RobotArmature|Punch
+  - first:
+      74: 8227842199601599928
+    second: George_RobotArmature|Run
+  - first:
+      74: -932519789048303426
+    second: George_RobotArmature|Run_Holding
+  - first:
+      74: 5953378820273249443
+    second: George_RobotArmature|Run_Tall
+  - first:
+      74: -737749741762327938
+    second: George_RobotArmature|Shoot
+  - first:
+      74: -6169969130542439089
+    second: George_RobotArmature|SwordSlash
+  - first:
+      74: 6183495804041903742
+    second: George_RobotArmature|Walk
+  - first:
+      74: 881302326079783264
+    second: George_RobotArmature|Walk_Holding
+  - first:
+      74: 5474785911030960318
+    second: George_RobotArmature|Walk_Tall
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: George_Idle
+      takeName: Idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_Dance
+      takeName: Dance
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_Death
+      takeName: Death
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 43
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_Hello
+      takeName: Hello
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_HitRecieve_1
+      takeName: HitRecieve_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_HitRecieve_2
+      takeName: HitRecieve_2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_Jump
+      takeName: Jump
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 26
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_No
+      takeName: No
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_Pickup
+      takeName: Pickup
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_Punch
+      takeName: Punch
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_Run
+      takeName: Run
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_Run_Holding
+      takeName: Run_Holding
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_Run_Tall
+      takeName: Run_Tall
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_Shoot
+      takeName: Shoot
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_SwordSlash
+      takeName: SwordSlash
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_Walk
+      takeName: Walk
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_Walk_Holding
+      takeName: Walk_Holding
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_Walk_Tall
+      takeName: Walk_Tall
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_Yes
+      takeName: Yes
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_Kick
+      takeName: Kick
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|Dance
+      takeName: RobotArmature|Dance
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|Death
+      takeName: RobotArmature|Death
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 43
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|Hello
+      takeName: RobotArmature|Hello
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|HitRecieve_1
+      takeName: RobotArmature|HitRecieve_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|HitRecieve_2
+      takeName: RobotArmature|HitRecieve_2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|Idle
+      takeName: RobotArmature|Idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|Jump
+      takeName: RobotArmature|Jump
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 26
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|Kick
+      takeName: RobotArmature|Kick
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|No
+      takeName: RobotArmature|No
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|Pickup
+      takeName: RobotArmature|Pickup
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|Punch
+      takeName: RobotArmature|Punch
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|Run
+      takeName: RobotArmature|Run
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|Run_Holding
+      takeName: RobotArmature|Run_Holding
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|Run_Tall
+      takeName: RobotArmature|Run_Tall
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|Shoot
+      takeName: RobotArmature|Shoot
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|SwordSlash
+      takeName: RobotArmature|SwordSlash
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|Walk
+      takeName: RobotArmature|Walk
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|Walk_Holding
+      takeName: RobotArmature|Walk_Holding
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|Walk_Tall
+      takeName: RobotArmature|Walk_Tall
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: George_RobotArmature|Yes
+      takeName: RobotArmature|Yes
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.25
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: George(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: George
+      parentName: George(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: RobotArmature
+      parentName: George(Clone)
+      position: {x: 0, y: 0.25723726, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Body
+      parentName: RobotArmature
+      position: {x: 0.00004281693, y: -0.0022665933, z: 0.0067347535}
+      rotation: {x: 0.58298594, y: 0.0000000012533433, z: 0.0000000026827685, w: 0.8124823}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: PoleTarget.L
+      parentName: Body
+      position: {x: -0.002399733, y: -0.0054411637, z: 0.011277434}
+      rotation: {x: 0.1622785, y: -0.000000004278191, z: -8.8792634e-10, w: 0.986745}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PoleTarget.L_end
+      parentName: PoleTarget.L
+      position: {x: -0, y: 0.002370312, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PoleTarget.R
+      parentName: Body
+      position: {x: 0.002399733, y: -0.005441164, z: 0.011277434}
+      rotation: {x: 0.1622785, y: -0.000000004278191, z: -8.8792634e-10, w: 0.986745}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PoleTarget.R_end
+      parentName: PoleTarget.R
+      position: {x: -0, y: 0.002370312, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Torso
+      parentName: Body
+      position: {x: -1.2805685e-11, y: -0.00018598067, z: -0.0019615882}
+      rotation: {x: 0.000000029802322, y: -0.0000000016261281, z: 2.6632196e-10, w: 1}
+      scale: {x: 1, y: 0.99999976, z: 0.99999976}
+    - name: Chest
+      parentName: Torso
+      position: {x: -3.0267983e-11, y: 0.0027906075, z: -2.0489097e-10}
+      rotation: {x: 0.17015442, y: -0.00000011877805, z: -0.000000022197046, w: 0.9854175}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1.0000001}
+    - name: Neck
+      parentName: Chest
+      position: {x: 1.16415315e-11, y: 0.0026951092, z: -6.111804e-11}
+      rotation: {x: 0.14920817, y: 0.00000023604724, z: -1.10064846e-10, w: 0.9888059}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: Head
+      parentName: Neck
+      position: {x: 8.1490726e-12, y: 0.0011660939, z: -5.2910765e-10}
+      rotation: {x: -0.035893533, y: -0.000000119023944, z: -0.0000000032486045, w: 0.9993556}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.99999994}
+    - name: Head_end
+      parentName: Head
+      position: {x: -0, y: 0.0013324277, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder.L
+      parentName: Neck
+      position: {x: -0.0009181675, y: 0.0002847153, z: -0.00004803514}
+      rotation: {x: -0.123054795, y: 0.08589632, z: 0.578779, w: 0.80155736}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: UpperArm.L
+      parentName: Shoulder.L
+      position: {x: -3.655441e-10, y: 0.0010071062, z: 6.0535965e-11}
+      rotation: {x: 0.0014759372, y: 0.0073719034, z: 0.19630705, w: 0.98051363}
+      scale: {x: 1.0000012, y: 1.0000004, z: 0.9999997}
+    - name: LowerArm.L
+      parentName: UpperArm.L
+      position: {x: 1.4726538e-10, y: 0.0029052703, z: 3.7252902e-11}
+      rotation: {x: 0.00046315516, y: -0.70710653, z: -0.00046345132, w: -0.70710677}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: PalmI.L
+      parentName: LowerArm.L
+      position: {x: -4.5634804e-10, y: 0.002744258, z: -4.656613e-10}
+      rotation: {x: -0.078111, y: 0.021177256, z: -0.26081258, w: -0.96199125}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: Index1.L
+      parentName: PalmI.L
+      position: {x: -4.4703483e-10, y: 0.00058854255, z: -2.6077032e-10}
+      rotation: {x: -0.05750257, y: 0.0035874816, z: -0.06216341, w: 0.99640167}
+      scale: {x: 1.0000002, y: 1.0000005, z: 0.99999994}
+    - name: Index2.L
+      parentName: Index1.L
+      position: {x: 4.4703483e-10, y: 0.00050248444, z: 2.9802322e-10}
+      rotation: {x: -0.14612544, y: 0.0057878704, z: -0.021584887, w: 0.9890136}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000004}
+    - name: Index2.L_end
+      parentName: Index2.L
+      position: {x: -0, y: 0.0004197631, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PalmP.L
+      parentName: LowerArm.L
+      position: {x: -4.5634804e-10, y: 0.002744258, z: -4.656613e-10}
+      rotation: {x: -0.07579619, y: -0.0283679, z: 0.34937203, w: -0.9334824}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Pinky1.L
+      parentName: PalmP.L
+      position: {x: -7.4505804e-11, y: 0.00059894734, z: 1.4901161e-10}
+      rotation: {x: -0.06265945, y: 0.017965851, z: 0.17815806, w: 0.98184043}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.99999946}
+    - name: Pinky2.L
+      parentName: Pinky1.L
+      position: {x: 7.4505804e-11, y: 0.0005071948, z: -4.0978193e-10}
+      rotation: {x: 0.15617038, y: 0.03668119, z: -0.02418316, w: -0.9867525}
+      scale: {x: 1.0000007, y: 0.9999999, z: 1.0000007}
+    - name: Pinky2.L_end
+      parentName: Pinky2.L
+      position: {x: -0, y: 0.00044380865, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PalmR.L
+      parentName: LowerArm.L
+      position: {x: -4.5634804e-10, y: 0.002744258, z: -4.656613e-10}
+      rotation: {x: -0.08084972, y: -0.0036226804, z: 0.04461602, w: -0.99572074}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Ring1.L
+      parentName: PalmR.L
+      position: {x: 1.6763806e-10, y: 0.0005757945, z: 2.6077032e-10}
+      rotation: {x: -0.042591807, y: -0.0021431206, z: 0.050205275, w: 0.99782807}
+      scale: {x: 1.0000006, y: 1.0000006, z: 0.99999976}
+    - name: Ring2.L
+      parentName: Ring1.L
+      position: {x: 2.2351741e-10, y: 0.0006414004, z: -2.9802322e-10}
+      rotation: {x: -0.14070985, y: -0.0011049719, z: 0.0047953245, w: 0.9900387}
+      scale: {x: 1, y: 0.9999996, z: 1.0000005}
+    - name: Ring2.L_end
+      parentName: Ring2.L
+      position: {x: -0, y: 0.00048172017, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PalmT.L
+      parentName: LowerArm.L
+      position: {x: -4.5634804e-10, y: 0.002744258, z: -4.656613e-10}
+      rotation: {x: -0.67193574, y: 0.7404993, z: -0.009462804, w: -0.008585153}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: Thumb1.L
+      parentName: PalmT.L
+      position: {x: 5.9604643e-10, y: 0.00048669617, z: -1.11758706e-10}
+      rotation: {x: -0.06287527, y: 0.019408885, z: -0.2943402, w: 0.95343274}
+      scale: {x: 0.9999995, y: 1, z: 0.99999994}
+    - name: Thumb2.L
+      parentName: Thumb1.L
+      position: {x: 4.1909515e-10, y: 0.00036472094, z: 6.1467287e-10}
+      rotation: {x: -0.115900695, y: 0.06796807, z: -0.2634984, w: 0.95525706}
+      scale: {x: 1.000001, y: 1.0000006, z: 0.9999994}
+    - name: Thumb2.L_end
+      parentName: Thumb2.L
+      position: {x: -0, y: 0.0004620651, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder.R
+      parentName: Neck
+      position: {x: 0.0009181674, y: 0.00028471573, z: -0.00004803499}
+      rotation: {x: -0.12305477, y: -0.08589653, z: -0.57877886, w: 0.8015574}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000001}
+    - name: UpperArm.R
+      parentName: Shoulder.R
+      position: {x: -2.1012965e-10, y: 0.0010071059, z: -2.7939677e-11}
+      rotation: {x: 0.0014759597, y: -0.0073718596, z: -0.19630766, w: 0.9805136}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: LowerArm.R
+      parentName: UpperArm.R
+      position: {x: -7.427297e-10, y: 0.0029052712, z: 0}
+      rotation: {x: 0.00046308126, y: 0.7071066, z: 0.00046307742, w: -0.70710665}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1.0000002}
+    - name: PalmI.R
+      parentName: LowerArm.R
+      position: {x: -1.862645e-10, y: 0.0027442577, z: 8.1956386e-10}
+      rotation: {x: 0.07811117, y: 0.021177227, z: -0.2608124, w: 0.9619912}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1}
+    - name: Index1.R
+      parentName: PalmI.R
+      position: {x: -5.9604643e-10, y: 0.0005885429, z: 5.2154064e-10}
+      rotation: {x: -0.057502717, y: -0.0035874052, z: 0.062163487, w: 0.99640167}
+      scale: {x: 1.0000002, y: 1.0000004, z: 0.9999997}
+    - name: Index2.R
+      parentName: Index1.R
+      position: {x: 2.2351741e-10, y: 0.000502485, z: -3.72529e-10}
+      rotation: {x: -0.14612547, y: -0.005787777, z: 0.021584738, w: 0.9890136}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.99999994}
+    - name: Index2.R_end
+      parentName: Index2.R
+      position: {x: -0, y: 0.0004197631, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PalmP.R
+      parentName: LowerArm.R
+      position: {x: -1.862645e-10, y: 0.0027442577, z: 8.1956386e-10}
+      rotation: {x: -0.07579623, y: 0.028368078, z: -0.34937194, w: -0.93348247}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1}
+    - name: Pinky1.R
+      parentName: PalmP.R
+      position: {x: -2.1420418e-10, y: 0.0005989469, z: -8.0093737e-10}
+      rotation: {x: -0.06265937, y: -0.017965665, z: -0.17815791, w: 0.9818405}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1.0000002}
+    - name: Pinky2.R
+      parentName: Pinky1.R
+      position: {x: -1.4901161e-10, y: 0.0005071948, z: -1.6763806e-10}
+      rotation: {x: 0.15617055, y: -0.036681343, z: 0.024183149, w: -0.98675245}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000002}
+    - name: Pinky2.R_end
+      parentName: Pinky2.R
+      position: {x: -0, y: 0.00044380865, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PalmR.R
+      parentName: LowerArm.R
+      position: {x: -1.862645e-10, y: 0.0027442577, z: 8.1956386e-10}
+      rotation: {x: -0.08084996, y: 0.0036227093, z: -0.04461607, w: -0.9957207}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000001}
+    - name: Ring1.R
+      parentName: PalmR.R
+      position: {x: -1.11758706e-10, y: 0.0005757947, z: 0}
+      rotation: {x: 0.042592708, y: -0.0021430312, z: 0.050205264, w: -0.99782807}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000002}
+    - name: Ring2.R
+      parentName: Ring1.R
+      position: {x: -7.4505804e-11, y: 0.0006414005, z: 6.9849193e-10}
+      rotation: {x: -0.14070937, y: 0.0011051359, z: -0.0047952426, w: 0.99003875}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: Ring2.R_end
+      parentName: Ring2.R
+      position: {x: -0, y: 0.00048172017, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PalmT.R
+      parentName: LowerArm.R
+      position: {x: -1.862645e-10, y: 0.0027442577, z: 8.1956386e-10}
+      rotation: {x: 0.05438342, y: 0.059932902, z: -0.73813057, w: 0.6697864}
+      scale: {x: 1, y: 1.0000001, z: 0.99999976}
+    - name: Thumb1.R
+      parentName: PalmT.R
+      position: {x: -0, y: 0.00048669733, z: 0}
+      rotation: {x: -0.062875025, y: -0.019408923, z: 0.29434, w: 0.95343274}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000006}
+    - name: Thumb2.R
+      parentName: Thumb1.R
+      position: {x: 6.7288053e-10, y: 0.00036472135, z: 8.1956386e-10}
+      rotation: {x: -0.11590092, y: -0.06796795, z: 0.26349846, w: 0.95525694}
+      scale: {x: 1.0000004, y: 1.0000006, z: 0.9999996}
+    - name: Thumb2.R_end
+      parentName: Thumb2.R
+      position: {x: -0, y: 0.0004620651, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperLeg.L
+      parentName: Body
+      position: {x: -0.002399734, y: 0.0009085524, z: -0.0025344363}
+      rotation: {x: 0.9527202, y: -0.0011793826, z: -0.0014524172, w: 0.30384338}
+      scale: {x: 1, y: 0.99999976, z: 0.99999946}
+    - name: MidLeg.L
+      parentName: UpperLeg.L
+      position: {x: -2.6309863e-10, y: 0.003616047, z: 5.587935e-10}
+      rotation: {x: -0.8697621, y: -0.00000022781025, z: 0.0000004105106, w: -0.4934713}
+      scale: {x: 1, y: 1.0000011, z: 1.0000011}
+    - name: LowerLeg.L
+      parentName: MidLeg.L
+      position: {x: -2.561137e-11, y: 0.004209781, z: -6.519258e-10}
+      rotation: {x: 0.009900862, y: -0.79192144, z: 0.6103081, w: 0.016926324}
+      scale: {x: 0.99999976, y: 0.999999, z: 0.9999997}
+    - name: FootBack.L
+      parentName: LowerLeg.L
+      position: {x: -3.7834978e-11, y: 0.0045518726, z: 6.519258e-11}
+      rotation: {x: 0.635459, y: 0.088648744, z: -0.07168145, w: 0.76367205}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: FootBack.L_end
+      parentName: FootBack.L
+      position: {x: -0, y: 0.0016279317, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperLeg.R
+      parentName: Body
+      position: {x: 0.002399734, y: 0.00090855296, z: -0.0025344365}
+      rotation: {x: 0.9527203, y: 0.0011793583, z: 0.0014523929, w: 0.30384323}
+      scale: {x: 0.9999996, y: 0.99999964, z: 0.99999917}
+    - name: MidLeg.R
+      parentName: UpperLeg.R
+      position: {x: -1.8859282e-10, y: 0.003616048, z: 8.381903e-11}
+      rotation: {x: -0.86976206, y: 0.00000022903598, z: -0.00000041235162, w: -0.49347144}
+      scale: {x: 0.9999998, y: 1.0000008, z: 1.0000012}
+    - name: LowerLeg.R
+      parentName: MidLeg.R
+      position: {x: -1.1408701e-10, y: 0.004209781, z: 2.165325e-10}
+      rotation: {x: -0.009900868, y: -0.79192114, z: 0.6103085, w: -0.016926318}
+      scale: {x: 1.0000004, y: 0.9999988, z: 0.9999991}
+    - name: FootBack.R
+      parentName: LowerLeg.R
+      position: {x: 4.1909514e-11, y: 0.004551872, z: 8.381903e-11}
+      rotation: {x: -0.6354585, y: 0.08864874, z: -0.07168155, w: -0.7636725}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000001}
+    - name: FootBack.R_end
+      parentName: FootBack.R
+      position: {x: -0, y: 0.0016279317, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot.L
+      parentName: RobotArmature
+      position: {x: -0.002399734, y: -0.0021445346, z: 0.00023826539}
+      rotation: {x: -6.123234e-17, y: -0, z: 1, w: -3.3087225e-24}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Foot.L_end
+      parentName: Foot.L
+      position: {x: -0, y: 0.0015772327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot.R
+      parentName: RobotArmature
+      position: {x: 0.002399734, y: -0.0021445346, z: 0.00023826539}
+      rotation: {x: -6.123234e-17, y: -0, z: 1, w: -3.3087225e-24}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Foot.R_end
+      parentName: Foot.R
+      position: {x: -0, y: 0.0015772327, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.25
+    rootMotionBoneName: RobotArmature
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
