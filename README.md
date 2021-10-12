@@ -1,13 +1,13 @@
 # My-Student-Projects
 
-2D platformer:
+2D platformer:/n
 ![](Gif_1.gif)
 ![](Gif_2.gif)
-Asteroid:
+Asteroid:/n
 ![](ezgif.com-gif-maker.gif)
-Runner:
+Runner:/n
 ![](gif_animation_001.gif)
-UFO platformer:
+UFO platformer:/n
 ![](gif_animation_002.gif)
 
 
