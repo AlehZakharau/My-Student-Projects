@@ -14,8 +14,8 @@ public class SettingsManager : MonoBehaviour, IGameManager
     [HideInInspector] public RecordCollection records = new RecordCollection();
 
 
-    private const string JsonPath = "/settings.json";
-    private const string RecordPath = "/records.json";
+    private const string JsonPath = "/settingsUFO.json";
+    private const string RecordPath = "/recordsUFO.json";
     
     public void Startup(){
         Debug.Log("Player manager starting...");
