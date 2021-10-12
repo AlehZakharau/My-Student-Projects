@@ -3,15 +3,18 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class MenuController : MonoBehaviour
+namespace Platformer
 {
-    public void LoadLevel()
+    public class MenuController : MonoBehaviour
     {
-        SceneManager.LoadScene("Well");
-    }
+        public void LoadLevel()
+        {
+            SceneManager.LoadScene("Well");
+        }
 
-    public void Exit()
-    {
-        Application.Quit();
+        public void Exit()
+        {
+            Application.Quit();
+        }
     }
 }

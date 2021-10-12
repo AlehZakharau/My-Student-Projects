@@ -2,23 +2,26 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraController : MonoBehaviour
+namespace Platformer
 {
-    public GameObject player;
-    public float cameraSpeed = 1;
-    private Vector3 offset;
-
-    // Start is called before the first frame update
-    void Start() => offset = transform.position;
-
-    void LateUpdate()
+    public class CameraController : MonoBehaviour
     {
-        // set the target object to follow
-        Transform target = player.transform;
+        public GameObject player;
+        public float cameraSpeed = 1;
+        private Vector3 offset;
 
-        var position = Vector3.up * target.position.y;
-        //move towards the game object that is the target
-        float step = cameraSpeed * Time.deltaTime;
-        transform.position = Vector3.MoveTowards(transform.position, position + offset, step);
+        // Start is called before the first frame update
+        void Start() => offset = transform.position;
+
+        void LateUpdate()
+        {
+            // set the target object to follow
+            Transform target = player.transform;
+
+            var position = Vector3.up * target.position.y;
+            //move towards the game object that is the target
+            float step = cameraSpeed * Time.deltaTime;
+            transform.position = Vector3.MoveTowards(transform.position, position + offset, step);
+        }
     }
 }

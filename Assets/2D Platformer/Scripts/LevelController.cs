@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LevelController : SingletonAsComponent<LevelController>
+public class LevelController : Platformer.SingletonAsComponent<LevelController>
 {
     public static LevelController Instance
     {

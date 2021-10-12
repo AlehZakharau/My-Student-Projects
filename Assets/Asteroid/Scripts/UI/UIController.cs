@@ -3,49 +3,56 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Serialization;
 
-public class UIController : MonoBehaviour
+namespace Asteroid
 {
-    public GameObject ammoSprite;
-    public GameObject ship;
-
-    public float distanceAmmo = 30f;
-    public Vector3 ammoPosition;
-    // Start is called before the first frame update
-    private GunContoller shipC;
-    private uint ammoCapacity;
-    
-    private Vector3 spritePosition = new Vector3(-300, -180, 0);
-    private GameObject[] ammoSprites;
-    void Start()
+    public class UIController : MonoBehaviour
     {
-        shipC = ship.GetComponent<GunContoller>();
-        ammoCapacity = shipC.ammoCapacity;
-        ammoSprites = new GameObject[ammoCapacity];
-        shipC.Launch += BulletLaunch;
-        shipC.ReloadBullets += Reload;
-        LoadSprites();
-    }
+        public GameObject ammoSprite;
+        public GameObject ship;
 
-    private void LoadSprites()
-    {
-        for (var i = 0; i < ammoCapacity; i++)
+        public float distanceAmmo = 30f;
+
+        public Vector3 ammoPosition;
+
+        // Start is called before the first frame update
+        private GunContoller shipC;
+        private uint ammoCapacity;
+
+        private Vector3 spritePosition = new Vector3(-300, -180, 0);
+        private GameObject[] ammoSprites;
+
+        void Start()
         {
-            var ammoSprite = Instantiate(this.ammoSprite, ammoPosition + new Vector3(distanceAmmo*i,0,0), Quaternion.identity);
-            ammoSprite.transform.SetParent (gameObject.transform, false);
-            ammoSprites[i] = ammoSprite;
+            shipC = ship.GetComponent<GunContoller>();
+            ammoCapacity = shipC.ammoCapacity;
+            ammoSprites = new GameObject[ammoCapacity];
+            shipC.Launch += BulletLaunch;
+            shipC.ReloadBullets += Reload;
+            LoadSprites();
         }
-    }
 
-    private void BulletLaunch()
-    {
-        ammoSprites[shipC.ammoCapacity].SetActive(false);
-    }
-
-    private void Reload()
-    {
-        foreach (var sprite in ammoSprites)
+        private void LoadSprites()
         {
-            sprite.SetActive(true);
+            for (var i = 0; i < ammoCapacity; i++)
+            {
+                var ammoSprite = Instantiate(this.ammoSprite, ammoPosition + new Vector3(distanceAmmo * i, 0, 0),
+                    Quaternion.identity);
+                ammoSprite.transform.SetParent(gameObject.transform, false);
+                ammoSprites[i] = ammoSprite;
+            }
+        }
+
+        private void BulletLaunch()
+        {
+            ammoSprites[shipC.ammoCapacity].SetActive(false);
+        }
+
+        private void Reload()
+        {
+            foreach (var sprite in ammoSprites)
+            {
+                sprite.SetActive(true);
+            }
         }
     }
 }
